@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,50:3B82F6,100:8B5CF6&amp;height=220&amp;section=header&amp;text=Prince%20Panwar&amp;fontSize=50&amp;fontColor=E8E8ED&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Web3%20Engineer%20%26%20Blockchain%20Developer&amp;descSize=18&amp;descAlignY=55&amp;descColor=9394A1" width="100%"/>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:3B82F6,100:8B5CF6&height=220&section=header&text=Prince%20Panwar&fontSize=50&fontColor=E8E8ED&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web3%20Engineer%20%26%20Blockchain%20Developer&descSize=18&descAlignY=55&descColor=9394A1)
+
 </div>
 
 <div align="center">
-  <a href="https://x.com/_Prince_panwar_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"/></a>
-  <a href="https://linkedin.com/in/prince-panwar-41a672223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:princegujjar1.pp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/prince-panwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_Prince_panwar_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-panwar-41a672223/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princegujjar1.pp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-panwar)
+
 </div>
 
 ---
@@ -86,17 +90,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince-panwar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0A0A0F&amp;stroke=3B82F6&amp;ring=3B82F6&amp;fire=F59E0B&amp;currStreakLabel=E8E8ED&amp;sideLabels=9394A1&amp;dates=5C5D6E" alt="GitHub Streak"/>
-</div>
 
-<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince-panwar&theme=tokyonight&hide_border=true&background=0A0A0F&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=E8E8ED&sideLabels=9394A1&dates=5C5D6E)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince-panwar&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=6" alt="Trophies"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=prince-panwar&theme=algolia&no-frame=true&no-bg=true&column=6)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,50:3B82F6,100:8B5CF6&amp;height=100&amp;section=footer" width="100%"/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:3B82F6,100:8B5CF6&height=100&section=footer)
+
 </div>
