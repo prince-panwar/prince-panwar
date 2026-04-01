@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN and WEB3**
 
-- 💬 Ask me about **REACT , Web3**
+- 💬 Ask me about **MERN , Web3**
 
 - Where to see my portfolio and resume [Here](https://porfolio-website-sandy.vercel.app)
 
