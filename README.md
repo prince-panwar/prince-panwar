@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:3B82F6,100:8B5CF6&height=220&section=header&text=Prince%20Panwar&fontSize=50&fontColor=E8E8ED&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web3%20Engineer%20%26%20Blockchain%20Developer&descSize=18&descAlignY=55&descColor=9394A1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:3B82F6,100:8B5CF6&height=220&section=header&text=Prince%20Panwar&fontSize=50&fontColor=E8E8ED&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web3%20Engineer%20%7C%20Blockchain%20Developer&descSize=18&descAlignY=55&descColor=9394A1)
 
 </div>
 
@@ -93,7 +93,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince-panwar&theme=tokyonight&hide_border=true&background=0A0A0F&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=E8E8ED&sideLabels=9394A1&dates=5C5D6E)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=prince-panwar&theme=algolia&no-frame=true&no-bg=true&column=6)
 
 </div>
 
