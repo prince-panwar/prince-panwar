@@ -15,6 +15,24 @@
 
 ---
 
+<div align="center">
+
+<a href="https://prince-panwar.github.io/photon-sphere/">
+  <img src="https://raw.githubusercontent.com/prince-panwar/photon-sphere/main/assets/photon-sphere.gif" alt="Photon Sphere: a black hole ray-traced live in the browser" width="100%">
+</a>
+
+### 🕳️ Photon Sphere
+
+**A black hole, ray-traced live in your browser.**<br>
+Every pixel follows a ray of light through curved spacetime, with gravitational lensing, Doppler beaming and redshift, in pure WebGL 2.
+
+[![Fly around it live](https://img.shields.io/badge/%E2%96%B6%20Fly%20around%20it%20live-8B5CF6?style=for-the-badge)](https://prince-panwar.github.io/photon-sphere/)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-panwar/photon-sphere)
+
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 > Blockchain Developer specializing in DeFi protocols, smart contracts, and full-stack decentralized applications. Currently at **Webmob Software Solutions**, integrating protocols like Uniswap, Aave & Compound. Based in **India** 🇮🇳
@@ -40,6 +58,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Photon Sphere**](https://github.com/prince-panwar/photon-sphere) | Real-time black hole ray tracer: light-ray geodesics, Doppler beaming & redshift. [**Live demo →**](https://prince-panwar.github.io/photon-sphere/) | WebGL 2, GLSL, Physics |
 | [**BaseScape**](https://github.com/prince-panwar/BaseScape) | ERC-20 staking protocol on Base L2 with **1,300+ active users** | Solidity, Base L2, DeFi |
 | [**NFT Marketplace**](https://github.com/prince-panwar/NFT-marketplace) | Full-stack marketplace for minting, listing & trading NFTs | Solidity, TypeScript, Hardhat |
 | [**CareTaker AI**](https://github.com/prince-panwar/caretaker_ai) | AI healthcare chatbot with voice & text, powered by Groq LLM | TypeScript, AI/LLM, Groq |
